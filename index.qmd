@@ -1,0 +1,58 @@
+---
+title: "Research Data Management @ ME"
+listing: 
+  id: announcements
+  contents: 
+    - docs/announcements/*.qmd
+    - "!docs/announcements/index.qmd"
+    #- docs/announcements/announcements.yml
+  max-items: 4
+---
+
+## Announcements
+
+<!-- SECTION RESERVED FOR VERY IMPORTANT ANNOUNCEMENTS
+::: {.callout-warning}
+:::
+<br>
+-->
+
+::: {#announcements}
+:::
+
+
+## Important info
+
+### ME data management policy summary {#me-policy-summary}
+
+Mechanical Engineering has a [Research Data Management policy](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/2020_3mE_Research_Data_Management_Policy.pdf)
+that applies to all researchers.
+
+All researchers are responsible for ensuring that research data, code and any other materials needed to
+reproduce research findings are appropriately documented, stored and
+shared in a research data repository in accordance with the FAIR principles
+(Findable, Accessible, Interoperable and Reusable) for at least 10
+years from the end of the research project, unless there are valid reasons
+not to do so.
+
+In addition, all **PhD candidates** who started from Jan 2020 are responsible for:
+
+- developing a written DMP for managing research outputs within the first 12 months.
+- attending relevant training in data management
+
+All **Assistant/Associate/Full Professors** are responsible for:
+
+- Ensuring that all members of the group plan for good data management from the outset of any research project and adhere to good data management practice throughout the project’s lifecycle.
+- Ensuring that where projects are funded by external parties, agreements made with those parties strive for compliance with this policy and determine maximal embargo periods. Research funded primarily by third parties will have to be evaluated on a case-by-case basis to ensure the best interests of all parties involved.
+- Budgeting for the costs of research data management into financial project planning at the proposal stage.
+
+**PhD Supervisors** are responsible for:
+
+- Ensuring that PhD students follow the policy requirements
+- Supporting their PhD students in preparation of a written Data Management Plan (DMP) for managing research outputs within the first 12
+months of the PhD study. (As part of the Go/No-Go meeting. For all PhDs starting from 1 January 2020 onwards.)
+- The PhD Supervisor is responsible for reviewing and approving the DMP and the Faculty Data Steward can be contacted for advice and
+support.
+
+See the [policy document](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/2020_3mE_Research_Data_Management_Policy.pdf)
+for more details

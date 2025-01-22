@@ -1,0 +1,7 @@
+---
+title: Announcements
+listing:
+  contents: 
+    - "docs/announcements/*.qmd"
+    - "docs/announcements/announcements.yml"
+---

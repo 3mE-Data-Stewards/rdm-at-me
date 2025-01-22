@@ -1,0 +1,74 @@
+---
+title: Research Data Management Resources
+---
+
+## General resources
+
+- [FAIR principles](https://fairsharing.org/standards/)
+- [The Turing Way](https://book.the-turing-way.org/index.html)
+
+
+## TU Delft trainings and materials
+
+- [RDM101](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101)
+  - [materials](https://tu-delft-library.github.io/rdm101-book/intro.html)
+- [Esther Plomp's adaptation of RDM 101](https://estherplomp.github.io/TNW-RDM-101/)
+- [Version control](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/version-control-collaborative-development-for-research-software)
+- [Data Carpentry (OpenRefine, R)](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/data-carpentry-for-social-sciences)
+  - [materials](https://datacarpentry.org/lessons/#social-science)
+- [Software Carpentry (python, bash, git)](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
+  - [materials](https://software-carpentry.org/lessons/)
+
+
+## Data management plans
+
+- [About](https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-plans)
+- [TUDelft instance of DMPonline](https://dmponline.tudelft.nl/)
+
+
+## Data management section in proposals
+
+- [Horizon Europe](https://gitlab.tudelft.nl/tud-data-stewards/horizon-europe-guidance/-/wikis/home)
+- [NWO](https://gitlab.tudelft.nl/tud-data-stewards/nwo-data-management-section-guidance)
+
+
+## Working with human participants
+
+- [Training at TU Delft](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research)
+- [Informed consent](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide)
+- [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/)
+
+
+## Data organisation
+
+- Storage solutions for researchers at TU Delft:
+  + [Overview (requires login)](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609)
+  + [Storage finder](https://storagefinder.tudelft.nl/)
+- [File naming advice](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+- [Getting started with Git version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [Managing personal data](https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data/)
+
+
+## Electronic lab notebooks
+
+- [Overview](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
+- [Blog](https://openworking.wordpress.com/2019/07/05/keep-calm-and-go-paperless-electronic-lab-notebooks-can-improve-your-research/)
+
+
+## Documentation
+
+- [4TU.ResearchData README guidelines](https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf)
+- [READMEs for code](https://github.com/PurpleBooth/a-good-readme-template)
+
+
+## Data publishing/archiving
+
+- [4TU.ResearchData](https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf)
+- [Licenses](https://www.tudelft.nl/library/copyright/c/creative-commons/types-of-licenses/)
+
+
+## Help
+
+- [TU Delft Data Stewards](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact)
+- [Research Data Management FAQs](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs)
+- [TU Delft Digital Competence Center](https://dcc.tudelft.nl/)

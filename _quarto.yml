@@ -1,0 +1,58 @@
+project:
+  type: website
+  #pre-render: schedule.R
+execute:
+  freeze: auto
+
+website:
+  title: "RDM @ ME"
+  description: "Site for Research Data Management at the Mechanical Engineering faculty, TU Delft."
+  site-url: https://3me-dmp-training.netlify.app/
+  page-footer:
+    right: 
+     - text: "About"
+       href: about.qmd
+     - text: "License"
+       href: LICENSE
+
+  navbar:
+    title: false
+    logo: img/TUDelft_logo_white_cropped.png
+    left:
+      - text: "Training"
+        href: docs/phd-training/index.qmd
+      - text: "Guides"
+        href: docs/guides/dmponline.qmd
+      - text: "Resources"
+        menu:
+        - text: "RDM"
+          href: docs/resources/rdm.qmd
+        - text: "Open Science"
+          href: docs/resources/open-science.qmd
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/3mE-Data-Stewards/3mE-PhD-DMP-training
+        aria-label: GitHub
+
+  sidebar: 
+    - title: "Guides"
+      background: light
+      style: docked
+      contents:
+        - text: Creating a DMP
+          href: docs/guides/dmponline.qmd
+    - title: "Training"
+      background: light
+      style: docked
+      contents:
+        - text: Overview
+          href: docs/phd-training/index.qmd
+        - docs/phd-training/content.qmd
+
+format:
+  html:
+    theme: 
+      light: custom.scss
+    toc: true
+

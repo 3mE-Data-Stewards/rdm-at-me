@@ -1,0 +1,11 @@
+---
+title: Open Science Resources
+---
+
+Open Science Community Delft: <https://osc-delft.github.io/>
+
+Why should I? <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7>
+
+Reproducible research: <https://the-turing-way.netlify.app/welcome>
+
+Esther Plomp's blog: <https://estherplomp.github.io/TNW-OS-support/>

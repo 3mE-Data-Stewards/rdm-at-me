@@ -1,0 +1,20 @@
+---
+title: DCC CODECHECK
+date: 2025-01-13
+description: DCC offering CODECHECK appointments for researchers
+categories: ["DCC","Open Science"]
+---
+
+In addition to its existing code and data office hours, the TU Delft DCC is offering a
+limited number of codecheck appointments, and slots are open and available to
+[book on their website](https://www.tudelft.nl/library/support/library-voor-onderzoekers/onderzoek-starten/dcc/code-data-office-hours)
+(under ‘category of appointment’, you can select ‘codecheck’).
+
+Do you have code and data related to a project or paper/pre-print that you would like
+to check? During a codecheck appointment, a member of the DCC will work with you to
+review your code and check that it is reproducible, and issue a certificate if it is!
+You can add this certificate to your own repository, and also cite it in the
+supplementary materials of journal submissions, showing that your code is reproducible.
+
+Think this is something for you? Book your slot now! You can reach out to the DCC at
+[dcc@tudelft.nl](mailto:dcc@tudelft.nl) with any questions you have about the process.

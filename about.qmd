@@ -1,0 +1,33 @@
+---
+title: "About"
+---
+
+At Mechanical Engineering you have two dedicated Data Stewards that can help with questions related to Research Data Management and Open Science.
+
+:::: {.columns}
+
+::: {.column}
+
+![](https://filelist.tudelft.nl/_processed_/4/7/csm_Sara_d99219d49e.webp){width="300"}
+
+[Sara Shoghi](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/sara-shoghi)
+
+:::
+
+::: {.column}
+
+![](https://filelist.tudelft.nl/_processed_/2/a/csm_avatar_a441d85745.webp){width="241"}
+
+[Bjørn Bartholdy](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy)
+
+:::
+::::
+
+You can always reach us at datastewards-me [at] tudelft.nl
+
+Things we can help you with:
+
+- Open Science and data management sections of funding proposals
+- Data Management Plans
+- Open Science and data management trainings and presentations
+- Publishing and archiving of data and code
