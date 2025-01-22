@@ -7,7 +7,7 @@ execute:
 website:
   title: "RDM @ ME"
   description: "Site for Research Data Management at the Mechanical Engineering faculty, TU Delft."
-  site-url: https://3me-dmp-training.netlify.app/
+  site-url: https://rdm-me.netlify.app/
   page-footer:
     right: 
      - text: "About"
@@ -32,7 +32,7 @@ website:
       - about.qmd
     right:
       - icon: github
-        href: https://github.com/3mE-Data-Stewards/3mE-PhD-DMP-training
+        href: https://github.com/3mE-Data-Stewards/rdm-at-me
         aria-label: GitHub
 
   sidebar: 
