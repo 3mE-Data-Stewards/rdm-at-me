@@ -8,6 +8,7 @@ website:
   title: "RDM @ ME"
   description: "Site for Research Data Management at the Mechanical Engineering faculty, TU Delft."
   site-url: https://rdm-me.netlify.app/
+  favicon: "img/database-solid.svg"
   page-footer:
     right: 
      - text: "About"
@@ -17,8 +18,9 @@ website:
 
   navbar:
     title: false
-    logo: img/TUDelft_logo_white_cropped.png
     left:
+      - text: "{{< bi database-fill size=1em >}} Home"
+        href: index.qmd
       - text: "Training"
         href: docs/phd-training/index.qmd
       - text: "Guides"
