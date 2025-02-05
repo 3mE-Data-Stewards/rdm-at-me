@@ -40,7 +40,8 @@ For more information about the course, and for registration, contact {{< var ins
 library(dplyr)
 library(readr)
 library(lubridate)
-schedule <- read_csv("training-sessions.csv")
+library(here)
+schedule <- read_csv(here("docs/phd-training/training-sessions.csv"))
 ```
 
 ```{r}
