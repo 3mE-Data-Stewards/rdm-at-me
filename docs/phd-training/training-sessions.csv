@@ -11,22 +11,22 @@ Part 3,Session,2022-11-10,14.45-15.45,"3mE Hall F - Simon Stevin, 34.A-0-610",Bj
 Part 1,Lecture,2022-10-31,14.45-16.45,"3mE Hall F - Simon Stevin, 34.A-0-610",Bjorn,Complete
 Part 1,Lecture,2023-01-25,10.00-12.30,"3mE Hall J, 34.D-1-300",Bjorn,Complete
 Part 3,Lecture,2023-02-20,13.45-14.45,"3mE Hall E - Robert Hooke, 34.A-0-710",Bjorn,Complete
-Part 3,Session,2023-02-27,11.00-12.00,"Online",Bjorn,Cancelled
+Part 3,Session,2023-02-27,11.00-12.00,Online,Bjorn,Cancelled
 Part 3,Session,2023-02-27,13.45-14.45,"3mE Hall E - Robert Hooke, 34.A-0-710",Bjorn,Complete
-Part 3,Session,2023-03-01,11.00-12.00,"Online",Bjorn,Cancelled
+Part 3,Session,2023-03-01,11.00-12.00,Online,Bjorn,Cancelled
 Part 3,Session,2023-03-06,13.45-14.45,"3mE Hall E - Robert Hooke, 34.A-0-710",Bjorn,Complete
 Part 1,Lecture,2023-05-08,10.00-12.30,"3mE Hall E - Robert Hooke, 34.A-0-710",Bjorn,Complete
 Part 3,Session,2023-04-17,13.30-14.30,"3mE, 34.A-1-200",Bjorn,Complete
-Part 3,Session,2023-04-20,14.00-15.00,"Online",Bjorn,Complete
-Part 3,Session,2023-05-24,10.00-11.00,"3mE 34.A-1-200",Bjorn,Cancelled
-Part 3,Session,2023-05-22,15.00-16.00,"Online",Bjorn,Complete
+Part 3,Session,2023-04-20,14.00-15.00,Online,Bjorn,Complete
+Part 3,Session,2023-05-24,10.00-11.00,3mE 34.A-1-200,Bjorn,Cancelled
+Part 3,Session,2023-05-22,15.00-16.00,Online,Bjorn,Complete
 Part 3,Session,2023-08-21,11.00-12.00,"3mE, A-1-200",Bjorn,Complete
 Part 3,Session,2023-08-22,14.00-15.00,Online,Yasemin,Cancelled
 Part 3,Session,2023-08-25,14.00-15.00,"3mE, A-1-160",Bjorn,Complete
 Part 3,Session,2023-08-30,13.00-14.00,Online,Bjorn,Cancelled
 Part 3,Session,2023-10-16,11.00-12.00,"3mE, A-1-200",Bjorn,Complete
 Part 3,Session,2023-10-18,13.00-14.00,Online,Bjorn,Complete
-Part 1,Lecture,2023-11-16,10.00-12.30,"3mE Hall L",Bjorn,Complete
+Part 1,Lecture,2023-11-16,10.00-12.30,3mE Hall L,Bjorn,Complete
 Part 3,Session,2024-01-22,11.30-12.30,"3mE, A-1-200",Bjorn,Complete
 Part 3,Session,2024-01-24,14.00-15.00,Online,Bjorn,Complete
 Part 3,Session,2024-01-26,14.00-15.00,"3mE, A-1-200",Bjorn,Complete
@@ -38,7 +38,8 @@ Part 3,Session,2024-05-24,15.00-16.00,Online,Bjorn,Complete
 Part 3,Session,2024-08-28,14.00-15.00,Online,Bjorn,Complete
 Part 3,Session,2024-08-29,10.00-11.00,Online,Bjorn,Complete
 Part 1,Lecture,2024-10-09,14.00-16.30,"ME Hall A, A-0-820",Bjorn,Complete
-Part 3,Session,2024-11-04,11.00-12.00,"ME A-1-160",Bjorn,Open
-Part 3,Session,2024-11-13,14.00-15.00,"ME A-1-160",Bjorn,Open
+Part 3,Session,2024-11-04,11.00-12.00,ME A-1-160,Bjorn,Open
+Part 3,Session,2024-11-13,14.00-15.00,ME A-1-160,Bjorn,Open
 Part 3,Session,2024-11-15,10.00-11.00,Online,Bjorn,Open
 Part 3,Session,2024-11-21,11.00-12.00,Online,Bjorn,Open
+Part 1,Lecture,2025-02-26,10.00-12.30,ME Hall,Sara,Open
