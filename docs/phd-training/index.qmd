@@ -19,7 +19,7 @@ There are two training options for PhD candidates at Mechanical Engineering:
 2. <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101">Research Data Management 101</a> - Central Graduate School Course
     - Delivered 4 times a year by the TU Delft Library
     - 16 hours divided in 3 weeks
-    - 1.5 GS
+    - 2 GS
 
 For more information about option 2, visit the [website](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101)
 or contact [RDMtraining-lib@tudelft.nl](mailto:RDMtraining-lib@tudelft.nl).
