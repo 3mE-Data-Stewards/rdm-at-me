@@ -2,7 +2,7 @@
 title: New TU Delft DMP Template for 2025
 date: 2025-01-23
 description: The updated TU Delft Data Management Plan template now available on DMP-Online
-categories: ["Data Management Plan","Data stewardship", "Open science", "DMP template"]
+categories: ["Data Management Plan","Data stewardship", "Open Science"]
 --- 
 
 In 2025, TU Delft launched a new version of its Data Management Plan (DMP) template. 
