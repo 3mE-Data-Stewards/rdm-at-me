@@ -17,7 +17,7 @@ jobs:
 
       - name: Install missing system dependencies
         if: runner.os == 'Linux'
-        run: sudo apt-get update && sudo apt-get install build-essentials
+        run: sudo apt update && sudo apt install build-essential
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
