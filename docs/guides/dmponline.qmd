@@ -22,11 +22,11 @@ If you have already created an account, Go to 'Sign in'.
 
 ## Create account
 
-![](/img/DMPonline-login-first.png){style="border: 1px solid #dee2e6;"}
+![](/img/DMPonline-login-first.png)
 
 Fill in the short form consisting of your name, email address (preferably your TU Delft email address), organisation (type Delft and "Delft University of Technology" will appear. Click on this.), and create a password.
 
-![](/img/DMPonline-create-account.png){style="border: 1px solid #dee2e6;"}
+![](/img/DMPonline-create-account.png)
 
 Next time you log on, you can go to 'Sign in with your institutional credentials'.
 
@@ -35,11 +35,11 @@ Next time you log on, you can go to 'Sign in with your institutional credentials
 
 Click on 'Sign in with your institutional credentials'.
 
-![](/img/DMPonline-login-again.png){style="border: 1px solid #dee2e6;"}
+![](/img/DMPonline-login-again.png)
 
 Select Delft University of Technology from the institutional login page.
 
-![](/img/DMPonline-select-org.png){style="border: 1px solid #dee2e6;"}
+![](/img/DMPonline-select-org.png)
 
 Log in with your NetID
 
@@ -47,26 +47,25 @@ Log in with your NetID
 
 ### Step 2 - Create a plan {#dmp-create}
 
+![](/img/DMPonline-create-plan.png)
+
 Click on the 'Create plans' tab and fill in the following:
 
-**What research project are you planning?** > Short but descriptive title
+**Enter project title** > Short but descriptive title
 
-**Select the primary research organisation** > Delft University of Technology
+**Your organisation's templates** > Select the template based on funder requirements (if no funder, select the TU Delft template)
 
-**Select the primary funding organisation** > To access the TU Delft template, select 'No funder associated with this plan or my funder is not listed.'
+:::{.callout-important collapse="true"}
+## Is the DMP for an HREC application? (expand)
 
-When you have selected a template, click 'Create Plan'
+If you are creating a DMP for an HREC application you are required to use TU Delft Data Management Plan template (2025)
 
-:::{.callout-important}
-## HREC application
+You will still be able to indicate the funder in the Project details section of the DMP.
 
-If you are creating a DMP for an HREC application you are required to use the TU Delft DMP template (select 'No funder' to access TU Delft Data management Plan template (2021))
-
+![](/img/DMPonline-select-plan.png)
 :::
 
-![](/img/DMPonline-create-plan.png){style="border: 1px solid #dee2e6;"}
-
-
+When you have selected a template, click 'Create' at the bottom of the page.
 
 ### Step 3 - Writing the plan {#dmp-write}
 
@@ -84,7 +83,7 @@ Based on the answers you provide, some of the questions will get removed. Theref
 
 Answer questions 1 - 6 (sections 0 - III). 
 
-![Q1: 'This DMP is created during the Data Management Plan Training for 3mE PhD students delivered by my faculty data steward {{< var instructor.name >}}' <br> Q2: the date of the training.](/img/DMPonline-write-plan.png){style="border: 1px solid #dee2e6;"}
+![Q1: 'This DMP is created during the Data Management Plan Training for ME PhD students delivered by my faculty data steward {{< var instructor.name >}}' <br> Q2: the date of the training.](/img/DMPonline-write-plan.png)
 
 Please feel free to make use of the example answers provided under the questions and consult the guidance provided at the right side of each question. Just make sure you understand the example answer before you copy-paste.
 
@@ -102,10 +101,10 @@ It is the responsibility of the PhD supervisor(s) to review and approve the DMP 
 
 If you would like me to give feedback on your plan, go to the Request feedback tab and click on 'Request feedback'.
 
-![](/img/DMPonline-request-feedback.png){style="border: 1px solid #dee2e6;"}
+![](/img/DMPonline-request-feedback.png)
 
 Once your DMP is complete, go to the Download tab and download it in the format you wish. If you would like the information in 'Project Details' to be included, make  sure to select 'project details coversheet'. 
 
-![Project details includes the abstract, ID, funder, etc.](/img/DMPonline-download.png){style="border: 1px solid #dee2e6;"}
+![Project details includes the abstract, ID, funder, etc.](/img/DMPonline-download.png)
 
 If you ask me to review your DMP after this training, then you can update your answer to Q1 by making use of the TU Delft example answer and Q2 with the date of the review.
