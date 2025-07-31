@@ -7,6 +7,7 @@ listing:
     - "!docs/announcements/index.qmd"
     #- docs/announcements/announcements.yml
   max-items: 4
+  sort: "date desc"
 ---
 
 ## Announcements
