@@ -1,0 +1,33 @@
+---
+title: OneDrive storage allowance reduction
+date: 2025-07-31
+description: Microsoft will be reducing the storage allowance for TU Delft researchers to 300 GB from 7 October 2025.
+categories: ["Research Data Management"]
+---
+
+The following is a communication from ICT.
+
+The OneDrive storage limit will be reduced to 300 GB per user by 7 October 2025. Currently you are using more storage space than allowed with the new limit or have almost reached the limit. This email tells you what this means and what action is needed. It is important that you act. 
+
+## Why is the storage limit restricted in OneDrive?
+
+Microsoft has introduced a storage limit for TU Delft as an organisation. Since we will soon reach this limit, action is required.
+
+Storing data always involves costs, when we exceed the new limit, we incur unnecessary extra costs. These are costs that can be avoided, because more than half of the data being stored is no longer in use and alternative storage locations are available. By taking a critical look at your files on OneDrive, we can reduce storage costs together.
+
+## What will I notice?
+
+After 7 October, syncing from OneDrive to the Cloud will no longer work if you have more than 300GB stored in OneDrive. This means automatic data sharing between different devices or applications will be stopped or disrupted and could lead to data inconsistencies. Colleagues with whom you have shared documents from your OneDrive can no longer make changes to those documents.
+
+## What action should I take?
+
+To prepare for this change, we ask you to check and clean up your OneDrive account. Consider the following when managing your files: 
+
+- Is it necessary to keep the stored data or can it be deleted? An overview of your largest files can be found at tud365-my.sharepoint.com/largestfiles. On this page, you can also find your current usage at the bottom left.
+- After cleaning up files, empty the online recycle bin to free up actual storage space. (https://tud365-my.sharepoint.com/recycle)
+- Is the data personal or intended for collaboration with others? SharePoint and Teams are suitable platforms for sharing collaborative files.
+- Research data you want to share should be stored on the Project Data storage disk (U:).
+- Use SURFdrive for personal files if space on OneDrive is insufficient. SURFdrive is only available to staff, not to students.
+- Need help deciding where best to store your data? Use the Storagefinder site (https://storagefinder.tudelft.nl/) to find a suitable storage option.
+
+If you have any questions or need assistance, please contact ICT-Servicedesk.
