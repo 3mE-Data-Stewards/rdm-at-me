@@ -21,6 +21,7 @@ listing:
 ::: {#announcements}
 :::
 
+See past announcements [here](docs/announcements/index.qmd).
 
 ## Important info
 
