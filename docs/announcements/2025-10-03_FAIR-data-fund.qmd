@@ -1,0 +1,15 @@
+---
+title: The 4TU FAIR Data Fund
+date: 2025-10-03
+description: The FAIR Data Fund offers researchers an opportunity to apply for financial aid to cover the costs of making their datasets FAIR.
+categories: ["Research Data Management", "Funding", "Open Science"]
+---
+
+More details about the fund on the [4TU community website](https://community.data.4tu.nl/the-fair-data-fund/).
+
+The FAIR Data Fund offers researchers an opportunity to apply for financial aid to cover the costs of making their datasets FAIR:
+Findable, Accessible, Interoperable and Reusable (the FAIR principles). We believe in the added value and benefit of making research data FAIR.
+
+Following on the previous successes, this year we will again accept applications from researchers and research projects from Delft University of
+Technology, University of Twente, Eindhoven University of Technology and Wageningen University & Research! We will announce 8 winners and they will
+receive a budget up of to 5000€ for their projects. Watch this space for more updates.

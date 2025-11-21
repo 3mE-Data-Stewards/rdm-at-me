@@ -1,6 +1,8 @@
 ---
 title: Announcements
 listing:
+  categories: true
+  sort: "date desc"
   contents: 
     - "*.qmd"
     - "announcements.yml"
