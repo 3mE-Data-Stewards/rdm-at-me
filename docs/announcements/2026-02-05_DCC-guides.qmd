@@ -1,0 +1,32 @@
+---
+title: DCC Guides Major Update
+date: 2026-02-05
+description: The DCC Guides offer practical information on data management, research software development, and computing practices tailored to the TU Delft research environment.
+categories: ["DCC","Open Science"]
+---
+
+Research requires managing data responsibly, developing reliable software, and accessing the right computing resources. The landscape for the right resources can feel overwhelming. 
+
+The DCC is pleased to announce that we have completed a major update to our DCC Guides. Over the last year, the guides have received a complete overhaul, and this 2.0 release completes our coverage and brings everything together in one place. What started in 2021 as a collection of solutions, best practices, and resources for DCC's own use has evolved into a comprehensive and well-maintained resource. 
+
+**What Are the DCC Guides?** 
+
+The DCC Guides offer practical information on **data management, research software development, and computing practices** tailored to the TU Delft research environment. These guides enable you to: 
+
+- Access consistent solutions and resources 
+- Refer researchers to clear, self-service documentation for recurring queries 
+- Share your solutions 
+
+**How to Get Started**
+
+Visit <https://tu-delft-dcc.github.io> to explore the guides. You can browse by topic or search for specific information. Many guides include: 
+
+- Best practice recommendations 
+- Step-by-step instructions tailored to TU Delft 
+- Links to relevant resources 
+
+**Get Involved**
+
+The guides are living documents. Your feedback, questions, and suggestions help us keep them current and useful. Visit the contributing section to see how to connect with the community, ask questions, or contribute your own solutions. 
+
+DCC Team 

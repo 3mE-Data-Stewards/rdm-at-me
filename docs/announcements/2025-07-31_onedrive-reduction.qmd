@@ -5,7 +5,7 @@ description: Microsoft will be reducing the storage allowance for TU Delft resea
 categories: ["Research Data Management"]
 ---
 
-The following is a communication from ICT.
+**The following is a communication from ICT.**
 
 The OneDrive storage limit will be reduced to 300 GB per user by 7 October 2025. Currently you are using more storage space than allowed with the new limit or have almost reached the limit. This email tells you what this means and what action is needed. It is important that you act. 
 
