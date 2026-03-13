@@ -1,0 +1,22 @@
+---
+title: No access to Pure (and temporary workarounds)
+date: 2026-03-13
+description: Unfortunately, a security vulnerability has been detected in Pure and therefore, access to the system is currently restricted.
+categories: ["ICT"]
+---
+
+**From the TU Delft Research Portal (<https://research.tudelft.nl/>)**
+
+Unfortunately, a security vulnerability has been detected in Pure and therefore, access to the system is currently restricted. We are working with ICT on a solution.
+
+In short
+
+- Pure is currently unavailable until the end of April 2026.
+- During this time, metadata and files cannot be uploaded.
+- Files can still be viewed and downloaded via the repository.
+
+Workarounds
+
+- A TOPdesk form is available for uploading metadata and files from student theses.
+- A pdf file of a PhD theses, including the complete cover (front and back), can be sent to repository-lib@tudelft.nl, and via https://filesender.surf.nl (for large files).
+- New research output can be processed for you by Pure-Repository-team. Most research output is automatically generated through the Scopus harvest. If the research output is not yet included in the TU Delft Repository, please send the DOI or URL, and preferably a PDF, to repository-lib@tudelft.nl.

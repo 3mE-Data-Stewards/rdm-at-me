@@ -17,10 +17,7 @@ website:
        href: LICENSE
 
   navbar:
-    title: false
     left:
-      - text: "{{< bi database-fill size=1em >}} Home"
-        href: index.qmd
       - text: "Training"
         href: docs/phd-training/index.qmd
       - text: "Guides"
