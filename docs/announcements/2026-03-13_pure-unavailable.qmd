@@ -1,5 +1,5 @@
 ---
-title: [RESOLVED] No access to Pure (and temporary workarounds)
+title: "[RESOLVED] No access to Pure (and temporary workarounds)"
 date: 2026-03-13
 description: Unfortunately, a security vulnerability has been detected in Pure and therefore, access to the system is currently restricted.
 categories: ["ICT"]
