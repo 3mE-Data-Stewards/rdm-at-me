@@ -1,0 +1,15 @@
+---
+title: The 4TU FAIR Data Fund 2027
+date: 2026-11-16
+description: The FAIR Data Fund offers researchers an opportunity to apply for financial aid to cover the costs of making their datasets FAIR.
+categories: ["Research Data Management", "Funding", "Open Science"]
+---
+
+**Deadline for Submissions:** 30 November 2026, 23:59  
+**More information and how to apply:** https://community.data.4tu.nl/the-fair-data-fund/
+
+The FDF gives researchers up to €5,000 to cover the costs of making their existing research outputs FAIR. That covers datasets, data collections, software, code and other outputs.
+The money can pay for things like hiring a student assistant or data expert, translation, necessary software or services, and promotion. 
+Researchers with a demonstrable connection to TU Delft, University of Twente, Eindhoven University of Technology or Wageningen University & Research, whose output was created in affiliation with one of these institutions are eligible.
+
+More details about the fund on the [4TU community website](https://community.data.4tu.nl/the-fair-data-fund/).

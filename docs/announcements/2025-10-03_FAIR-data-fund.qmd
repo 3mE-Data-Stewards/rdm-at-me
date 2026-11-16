@@ -1,5 +1,5 @@
 ---
-title: The 4TU FAIR Data Fund
+title: The 4TU FAIR Data Fund 2026
 date: 2025-10-03
 description: The FAIR Data Fund offers researchers an opportunity to apply for financial aid to cover the costs of making their datasets FAIR.
 categories: ["Research Data Management", "Funding", "Open Science"]
